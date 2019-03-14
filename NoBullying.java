@@ -11,6 +11,7 @@ public class NoBullying
 				System.out.println ("7° Passo: Incentivar a comunicação entre os alunos/colegas de sala");
 				System.out.println ("8° Passo: Respeitar a diferença do aluno/colega");
 				System.out.println ("9° Passo: Saber lidar com a diferença dos alunos/colegas");
+				System.out.println ("10° Passo: Colocar em prática atividades que incentive o término de brincadeiras violentas assim como ofensas");
 				
 
 } 
