@@ -5,6 +5,7 @@ public class NoBullying
 				System.out.println ("1° Passo: Verificar o Comportamento do Aluno/ Colega de Sala");
 				System.out.println ("2° Passo: Dialogar sobre dificuldade de interação do aluno/colega de sala");
 				System.out.println ("3° Passo: Avisar os Superiores sobre práticas evasias à privacidade do aluno/colega de sala");
+				System.out.println ("4° Passo: Intervir sobre brincadeiras violentas direcionadas a alunos/ colegas de sala");
 				
 
 } 
