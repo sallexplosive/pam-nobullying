@@ -10,6 +10,7 @@ public class NoBullying
 				System.out.println ("6: Passo: Palestrar sobre o tema, mostrando que o que parece ser engraçado, na verdade se trada de uma ofensa ao proximo");
 				System.out.println ("7° Passo: Incentivar a comunicação entre os alunos/colegas de sala");
 				System.out.println ("8° Passo: Respeitar a diferença do aluno/colega");
+				System.out.println ("9° Passo: Saber lidar com a diferença dos alunos/colegas");
 				
 
 } 
