@@ -3,6 +3,7 @@ public class NoBullying
 		{     System.out.println('Programa NoBullying');   } 
 				System.out.println ("10 Ações para Acabar com a Pratica do Bullying");
 				System.out.println ("1° Passo: Verificar o Comportamento do Aluno/ Colega de Sala");
+				System.out.println ("2° Passo: Dialogar sobre dificuldade de interação do aluno/colega de sala");
 				
 
 } 
